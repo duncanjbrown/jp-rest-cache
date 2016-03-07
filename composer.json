@@ -18,9 +18,6 @@
     "support": {
         "issues": "https://github.com/Shelob9/jp-rest-cache/issues",
         "source": "https://github.com/Shelob9/jp-rest-cache"
-    },
-    "autoload"   : {
-        "files"   : ["jp-rest-cache.php"]
     }
 
 }
